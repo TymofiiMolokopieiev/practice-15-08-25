@@ -1,3 +1,11 @@
-h1{
-    color: blue;
+h1 {
+  color: blue;
+}
+img {
+  width: 100px;
+  /* height: 300px; */
+}
+p{
+    background-color: chartreuse;
+    color: #f8f8f8;
 }
